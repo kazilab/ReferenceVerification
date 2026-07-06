@@ -1,4 +1,4 @@
-# xRef: A Reference Verification System
+# xRef v0.0.4: A Reference Verification System
 
 xRef is a lightweight, self-contained reference verification tool designed to help researchers, editors, and students check the accuracy of their bibliography metadata. By parsing EndNote text exports, xRef cross-references every field in your bibliography against multiple authoritative scholarly databases from a single HTML application.
 
